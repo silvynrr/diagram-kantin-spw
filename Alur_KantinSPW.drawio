@@ -206,6 +206,9 @@
         <mxCell id="BjcWfent5QlHq0213xH6-77" value="Alur Sistem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=32;fontStyle=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="360" y="1280" width="920" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BjcWfent5QlHq0213xH6-78" value="Alur Bisnis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=32;fontStyle=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="920" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
